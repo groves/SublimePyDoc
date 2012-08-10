@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Open Python Module Under Cursor",
+        "command": "open_python_module_under_cursor"
+    },
+    {
+        "caption": "Open Python Module",
+        "command": "open_python_module"
+    }
+]
